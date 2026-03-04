@@ -45,7 +45,7 @@
 - [go-zero-admin](https://github.com/yh-zero/go-zero-admin) -  go-zero-admin: 基于go-zero和gorm开发的分布式微服务后端权限管理系统脚手架。十分合适新手入手go-zero、gorm、casbin、jwt等。自定义go-zero模板返回错误。
 - [zero-fusion](https://github.com/fearlessfei/zero-fusion) -  zero-fusion: 基于go-zero之上封装的多功能模块聚合框架，无需关心常用的功能模块开发，开箱即用，直接进行项目的开发，减少开发者的心智负担。
 - [zero-service](https://github.com/maomao94/zero-service) - zero-service: 基于go-zero之上封装的微服务脚手架，集成了电力行业IEC-104协议,modbus协议等，开箱即用，适合作为学习参考或二次开发的基础工程。
-
+- [Skye-IM](https://github.com/Skylm808/Skye-IM) - 基于 go-zero 开发的分布式即时通讯(IM)系统。
 
 ## videos
 
